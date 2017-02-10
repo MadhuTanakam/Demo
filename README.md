@@ -1,2 +1,2 @@
 # Demo
-demo purpose
+demo purpose ONLY
